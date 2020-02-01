@@ -80,7 +80,7 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "All Rights Reserved",
+    "privacypolicy": "https://moodle.org/admin/tool/policy/view.php?policyid=1",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
